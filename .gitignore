@@ -9,3 +9,4 @@ datasets/
 utils/__pycache__/
 _old.py
 AcT_*
+.venv/
